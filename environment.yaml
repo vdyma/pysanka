@@ -1,0 +1,10 @@
+name: pysanka
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+packages:
+  - python=3.10
+  - pytorch
+  - pytorch-cuda=12.1
+  - torchvision
